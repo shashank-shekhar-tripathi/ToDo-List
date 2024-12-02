@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  background-color: "#A6AEBF";
+}
+.list{
+  height: 40px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px  0;
+  background-color: cadetblue;
+  padding-left: 20px;
+  padding-right: 15px;
+  font-size: large;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+  
